@@ -1,2 +1,2 @@
 # Front-End
-Template created HTML,CSS and a litle bit JS.
+Template created on HTML,CSS and a litle bit JS.
